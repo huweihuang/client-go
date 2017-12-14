@@ -1,0 +1,10 @@
+package: test
+import:
+- package: k8s.io/apimachinery
+  subpackages:
+  - pkg/apis/meta/v1
+- package: k8s.io/client-go
+  version: v5.0.1
+  subpackages:
+  - kubernetes
+  - tools/clientcmd

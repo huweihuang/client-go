@@ -81,5 +81,8 @@ There are 7 pods in the cluster
 
 ## 2. client-go源码分析
 
-Client-go的源码分析参考文章：[client-go源码分析](http://blog.csdn.net/huwh_/article/details/78821805)
+Client-go的源码分析参考文章：
+
+- 个人博客文章：[client-go源码分析](http://www.huweihuang.com/article/source-analysis/client-go-source-analysis/)
+- CSDN博客文章：[client-go源码分析](http://blog.csdn.net/huwh_/article/details/78821805)
 
